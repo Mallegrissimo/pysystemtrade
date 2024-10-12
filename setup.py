@@ -77,7 +77,6 @@ setup(
         "Python framework for running systems as in Robert Carver's book Systematic Trading"
         " (https://www.systematicmoney.org/systematic-trading)"
     ),
-    license="GNU GPL v3",
     keywords="systematic trading interactive brokers",
     url="https://qoppac.blogspot.com/p/pysystemtrade.html",
     packages=find_packages(),
